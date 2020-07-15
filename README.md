@@ -11,7 +11,7 @@ FTT Student.
 
 ## About me
 <p>
-  <img width="200" alt="hello!" align="right" src="https://thumbs.gfycat.com/JauntyGlaringHartebeest-small.gif">
+  <img width="200" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
 Programing ❤️| Physics 💙| Games 💚
