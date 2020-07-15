@@ -11,7 +11,7 @@ FTT Student.
 
 ## About me
 <p>
-  <img width="200" alt="hello!" align="right" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif">
+  <img width="200" alt="hello!" align="right" src="https://thumbs.gfycat.com/JauntyGlaringHartebeest-small.gif">
 </p>
 
 Programing ❤️| Physics 💙| Games 💚
