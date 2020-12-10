@@ -18,7 +18,7 @@ Programing ❤️| Physics 💙| Games 💚
 
 I'm from Sao Paulo - Brazil  
 
-I studied Java |Javascript |Kotlin  
+I studied .NET | Javascript | SQL-Server
 
 I have a site [here](https://arahiroorihara.github.io/home.html)
 
