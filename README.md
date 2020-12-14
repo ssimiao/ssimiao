@@ -22,7 +22,7 @@ I studied .NET | Javascript | SQL-Server
 
 I have a site [here](https://arahiroorihara.github.io/home.html)
 
----------------------------------------
+Senior Bug Writer
 
 It's all folks
 
