@@ -2,7 +2,7 @@
 
 Backend Developer | Software Enginner
 
-FTT Student.
+Computer Engineering Student
 
 
 
