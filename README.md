@@ -16,7 +16,11 @@ Computer Engineering Student
 
 Programing ❤️| Physics 💙| Games 💚
 
-I'm from Sao Paulo - Brazil  
+I'm from Sao Paulo - Brazil
+
+Backend -> Java | Kotlin
+Front -> JS | TS | Angular
+Db -> MySQL | Oracle | SqlServer
 
 I studied Java/Kotlin | Javascript/Typescript/Angular | MySQL/Oracle/SqlServer
 
