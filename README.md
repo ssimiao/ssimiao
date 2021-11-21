@@ -18,7 +18,7 @@ Programing ❤️| Physics 💙| Games 💚
 
 I'm from Sao Paulo - Brazil  
 
-I studied Java | Javascript | Mysql
+I studied Java/Kotlin | Javascript/Typescript/Angular | MySQL/Oracle/SqlServer
 
 I have a site [here](https://simiaosamuel.github.io)
 
