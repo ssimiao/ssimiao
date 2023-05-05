@@ -24,7 +24,7 @@ Front -> JS | TS | Angular
 
 Db -> MySQL | Oracle | SqlServer
 
-I have a site [here](https://simiaosamuel.github.io)
+I have a site [here](https://ssimiao.github.io)
 
 Senior bug writer
 
