@@ -22,13 +22,11 @@ Backend -> Java | Kotlin
 
 Front -> JS | TS | Angular
 
-Db -> MySQL | Oracle | SqlServer
+Db -> MySQL | Oracle | SqlServer | Redis | DynamoDb
 
 I have a site [here](https://ssimiao.github.io)
 
 Senior bug writer
-
-It's all folks
 
 <br>
 
