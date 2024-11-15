@@ -2,7 +2,7 @@
 
 Backend Developer | Software Enginner
 
-Computer Engineering Student
+Computer Engineering Graduated
 
 
 
