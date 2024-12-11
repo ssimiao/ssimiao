@@ -14,19 +14,16 @@ Computer Engineering Graduated
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
-Programing ❤️| Physics 💙| Games 💚
-
 I'm from Sao Paulo - Brazil
 
 Backend -> Java | Kotlin
 
 Front -> JS | TS | Angular
 
-Db -> MySQL | Oracle | SqlServer | Redis | DynamoDb
+Db -> MySQL | Postgre | Oracle | SqlServer | Redis | DynamoDb
 
 I have a site [here](https://ssimiao.github.io)
 
-Senior bug writer
 
 <br>
 
